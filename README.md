@@ -164,4 +164,4 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
   Rocketseat · 9h · [Certificado](./certificados/ui-ux/rocketseat-ux-ui-com-figma.pdf) · [Verificar](https://app.rocketseat.com.br/certificates/36a73a00-67a6-4477-8b73-db59bd99c802)
 
 - **Curso: Introdução ao Design de Interação UX/UI**  
-  Tic Em Trilhas · 72h · [Certificado](./certificados/flutter/nome-do-certificado.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=91c5e9e9-0602-4b51-a2e8-7bac81c361bf)
+  Tic Em Trilhas · 72h · [Certificado](./certificados/ui-ux/tic-em-trilhas-introducao-ao-design-de-Interacao-ux-ui.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=91c5e9e9-0602-4b51-a2e8-7bac81c361bf)
