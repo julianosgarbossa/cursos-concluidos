@@ -32,8 +32,23 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 - **Curso:** IA no Fluxo de Desenvolvimento iOS  
   Moa · 2h · [Certificado](./certificados/ios/moa-ia-no-fluxo-de-desenvolvimento-ios.pdf)
 
+- **Formação:** iOS Com SwiftUI - Design System Para Projetos  
+  Alura · 16h · [Certificado](./certificados/ios/alura-ios-com-swiftui-design-system-para-projetos.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/d4c1b26d-cbe7-4bcf-b3db-9b5873b3b11d?lang=pt_BR)
+
+- **Formação:** Escalabilidade em Aplicativos iOS  
+  Alura · 27h · [Certificado](./certificados/ios/alura-escalabilidade-em-aplicativos-ios.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/ba336559-1bd6-4250-bb72-7d00459941fe?lang=pt_BR)
+
+- **Formação:** iOS Testes Automatizados  
+  Alura · 32h · [Certificado](./certificados/ios/alura-ios-testes-automatizados.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/cdfb5e7a-aa44-4b32-b3c3-b918a8a4d97d?lang=pt_BR)
+
+- **Formação** Evolua Apps em SwiftUI - CRUD, MVVM e Autenticação  
+  Alura · 34h · [Certificado](./certificados/ios/alura-evolua-apps-em-swiftui-crud-mvvm-e-autenticacao.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/1e36656d-be2d-4010-98c0-e936107a16cc?lang=pt_BR)
+
 - **Curso:** SwiftUI Com Firebase  
   AT Digital Treinamentos · 6h · [Certificado](./certificados/ios/at-digital-treinamentos-swiftui-com-firebase.pdf)
+
+- **Formação:** Construa Aplicativos iOS Com SwiftUI  
+  Alura · 30h · [Certificado](./certificados/ios/alura-construa-aplicativos-ios-com-swiftui.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/e50e3264-4a98-40ff-b1db-f65ce14af09b?lang=pt_BR)
 
 - **Curso:** iOS Developer  
   AT Digital Treinamentos · 22h · [Certificado](./certificados/ios/at-digital-treinamentos-ios-developer.pdf)
@@ -65,6 +80,12 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 - **Curso:** UIKit Para o Mercado Brasileiro  
   Tic em Trilhas · 24h · [Certificado](./certificados/ios/tic-em-trilhas-uikit-para-o-mercado-brasileiro.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=8afaac49-71a0-4d6f-aa28-1d30b8b93526)
 
+- **Formação:** iOS Com ViewCode - Clean Code e Arquitetura de Software  
+  Alura · 42h · [Certificado](./certificados/ios/alura-ios-com-viewcode-clean-code-e-arquitetura-de-software.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/a4fc41ea-4808-4c94-9739-b5f8e6ef3d5d?lang=pt_BR)
+
+- **Formação:** Desenvolva Aplicativos iOS Utilizando ViewCode  
+  Alura · 42h · [Certificado](./certificados/ios/alura-desenvolva-aplicativos-ios-utilizando-viewcode.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/c026cb21-7708-406d-b5e6-d96b99ff21d8?lang=pt_BR)
+
 - **Formação:** Jornada iOS  
   BackFront · 50h · [Certificado](./certificados/ios/backfront-jornada-ios.pdf)
 
@@ -82,6 +103,9 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 - **Curso:** Introdução ao Desenvolvimento Mobile iOS  
   Tic em Trilhas · 72h · [Certificado](./certificados/ios/tic-em-trilhas-introducao-ao-desenvolvimento-mobile-ios.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=7da355db-753c-4d2e-a8da-fc4fb704c981)
+
+- **Formação:** Domine a Linguagem Swift  
+  Alura · 44h · [Certificado](./certificados/ios/alura-domine-a-linguagem-swift.pdf) · [Verificar](https://cursos.alura.com.br/degree/certificate/b9258793-e4cc-49b7-ad44-9c08457536ea?lang=pt_BR)
 
 - **Curso:** Swift Descomplicado  
   BackFront · 8h · [Certificado](./certificados/ios/backfront-swift-descomplicado.pdf)
