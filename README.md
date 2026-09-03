@@ -125,11 +125,35 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ### 📱 Desenvolvimento Flutter
 
+- **Curso:** Do Dart ao Flutter - Criando Seu Primeiro Aplicativo  
+  Alura · 10h · [Certificado](./certificados/flutter/alura-do-dart-ao-flutter-criando-seu-primeiro-aplicativo.pdf) · [Verificar](alura-do-dart-ao-flutter-criando-seu-primeiro-aplicativo)
+
+- **Curso:** Dart - Lidando Com Erros, Exceções e Null Safety  
+  Alura · 10h · [Certificado](./certificados/flutter/alura-dart-lidando-com-erros-execoes-e-null-safety.pdf) · [Verificar](https://cursos.alura.com.br/certificate/a773424e-5ab9-43c1-9979-c545edc5bdd1?lang=pt_BR)
+
+- **Curso:** Dart - Dominando Assincronismo e Criando Comunicação Com APIs  
+  Alura · 10h · [Certificado](./certificados/flutter/alura-dart-dominando-assincronismo-e-criando-comunicacao-com-apis.pdf) · [Verificar](https://cursos.alura.com.br/certificate/478f41e3-706a-429a-814f-8e1b9ccbaeed?lang=pt_BR)
+
+- **Curso:** Dart - Trabalhando Com Orientação a Objetos  
+  Alura · 8h · [Certificado](./certificados/flutter/alura-dart-trabalhando-com-orientacao-a-objetos.pdf) · [Verificar](https://cursos.alura.com.br/certificate/3e1b2753-9c69-43fe-bd5c-7684dd460bf1?lang=pt_BR)
+
+- **Curso:** Praticando Collections no Dart - Listas, Sets e Mapas  
+  Alura · 6h · [Certificado](./certificados/flutter/alura-praticando-collections-no-dart-listas-sets-e-mapas.pdf) · [Verificar](https://cursos.alura.com.br/certificate/2d83fb3a-7b2a-4fb8-8250-91542dc73762?lang=pt_BR)
+
+- **Curso:** Dart - Trabalhando Com a Sintaxe e Configuração de Projeto  
+  Alura · 8h · [Certificado](./certificados/flutter/alura-dart-trabalhando-com-a-sintaxe-e-configuracao-de-projeto.pdf) · [Verificar](https://cursos.alura.com.br/certificate/95b43895-e336-4cbf-bcd8-6838da4f65e6?lang=pt_BR)
+
 ---
 
 <a id="backend-java-spring-boot"></a>
 
 ### ☕ Backend com Java & Spring Boot
+
+- **Curso:** Java - Aplicando a Orientação a Objetos  
+  Alura · 10h · [Certificado](./certificados/java-spring/alura-java-aplicando-a-orientacao-a-objetos.pdf) · [Verificar](https://cursos.alura.com.br/certificate/97c72c4b-2d96-4df5-b9c0-bb64b444089d?lang=pt_BR)
+
+- **Curso:** Java - Criando a Sua Primeira Aplicação  
+  Alura · 8h · [Certificado](./certificados/java-spring/alura-java-criando-a-sua-primeira-aplicacao.pdf) · [Verificar](https://cursos.alura.com.br/certificate/f628c798-465a-410e-afd4-d0afcb1de01a?lang=pt_BR)
 
 ---
 
@@ -146,6 +170,9 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ### 🔀 Git & Controle de Versão
 
+- **Curso:** Git e GitHub - Compartilhando e Colaborando em Projetos  
+  Alura · 8h · [Certificado](./certificados/git/alura-git-e-github-compartilhando-e-colaborando-em-projetos.pdf) · [Verificar](https://cursos.alura.com.br/certificate/c325a597-b3ed-4f41-b0b6-ea26cd93db9b?lang=pt_BR)
+
 - **Curso:** Versionamento de Código  
   Tic em Trilhas · 24h · [Certificado](./certificados/git/tic-em-trilhas-versionamento-de-codigo.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=5eeffd2d-6bc1-4a61-bf6d-bd5c5613ce26)
 
@@ -157,6 +184,15 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 <a id="engenharia-de-software"></a>
 
 ### 🏗️ Engenharia de Software
+
+- **Curso:** Swagger - Documentando Suas APIs  
+  Alura · 8h · [Certificado](./certificados/engenharia-software/alura-swagger-documentando-suas-apis.pdf) · [Verificar](https://cursos.alura.com.br/certificate/6f51d90c-2489-44aa-a111-b42c92965ce9?lang=pt_BR)
+
+- **Curso:** Padrões de API - do HTTP à Modelagem de APIs  
+  Alura · 8h · [Certificado](./certificados/engenharia-software/alura-padroes-de-api-do-http-a-modelagem-de-apis.pdf) · [Verificar](https://cursos.alura.com.br/certificate/e9840b38-cc27-4b35-af53-629dd4ca8f0c?lang=pt_BR)
+
+- **Curso:** HTTP - Entendendo a Web por Baixo dos Panos  
+  Alura · 10h · [Certificado](./certificados/engenharia-software/alura-http-entendendo-a-web-por-baixo-dos-panos.pdf) · [Verificar](https://cursos.alura.com.br/certificate/9493b2b1-6adb-4feb-818c-57d23f69c1e5?lang=pt_BR)
 
 - **Curso:** Fundamentos de Orientação a Objetos  
   Tic em Trilhas · 24h · [Certificado](./certificados/engenharia-software/tic-em-trilhas-fundamentos-de-orientacao-a-objetos.pdf) · [Verificar](https://ticemtrilhas.org.br/certificate-validation?code=6294dc6a-0b0f-4647-93c5-e6e5a9a76f24)
