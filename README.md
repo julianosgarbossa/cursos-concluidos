@@ -11,10 +11,10 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 - 🍎 [Desenvolvimento iOS](#desenvolvimento-ios)
 - 📱 [Desenvolvimento Flutter](#desenvolvimento-flutter)
 - ☕ [Backend com Java & Spring Boot](#backend-java-spring-boot)
-- 🚀 [CI/CD](#ci-cd)
 - 🔀 [Git & Controle de Versão](#git-controle-de-versao)
 - 🏗️ [Engenharia de Software](#engenharia-de-software)
 - 🧠 [Algoritmos & Estruturas de Dados](#algoritmos-estruturas-de-dados)
+- 🚀 [CI/CD Automação](#ci-cd-automacao)
 - 🎨 [UI/UX Design](#ui-ux-design)
 
 ---
@@ -157,15 +157,6 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ---
 
-<a id="ci-cd"></a>
-
-### 🚀 CI/CD
-
-- **Curso:** Fastlane e CI&CD  
-  BackFront · 2h · [Certificado](./certificados/ci-cd/backfront-fastlane-e-ci-cd.pdf)
-
----
-
 <a id="git-controle-de-versao"></a>
 
 ### 🔀 Git & Controle de Versão
@@ -202,6 +193,15 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 <a id="algoritmos-estruturas-de-dados"></a>
 
 ### 🧠 Algoritmos & Estruturas de Dados
+
+---
+
+<a id="ci-cd-automacao"></a>
+
+### 🚀 CI/CD Automação
+
+- **Curso:** Fastlane e CI&CD  
+  BackFront · 2h · [Certificado](./certificados/ci-cd/backfront-fastlane-e-ci-cd.pdf)
 
 ---
 
