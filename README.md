@@ -126,7 +126,7 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 ### 📱 Desenvolvimento Flutter
 
 - **Curso:** Do Dart ao Flutter - Criando Seu Primeiro Aplicativo  
-  Alura · 10h · [Certificado](./certificados/flutter/alura-do-dart-ao-flutter-criando-seu-primeiro-aplicativo.pdf) · [Verificar](alura-do-dart-ao-flutter-criando-seu-primeiro-aplicativo)
+  Alura · 10h · [Certificado](./certificados/flutter/alura-do-dart-ao-flutter-criando-seu-primeiro-aplicativo.pdf) · [Verificar](https://cursos.alura.com.br/certificate/c53544da-815a-41cf-a909-c5112da232cd?lang=pt_BR)
 
 - **Curso:** Dart - Lidando Com Erros, Exceções e Null Safety  
   Alura · 10h · [Certificado](./certificados/flutter/alura-dart-lidando-com-erros-execoes-e-null-safety.pdf) · [Verificar](https://cursos.alura.com.br/certificate/a773424e-5ab9-43c1-9979-c545edc5bdd1?lang=pt_BR)
