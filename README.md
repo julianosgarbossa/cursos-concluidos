@@ -203,6 +203,9 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ### 🚀 CI/CD Automação
 
+- **Curso:** DevOps - Trabalhando Com Repositórios no GitHub  
+  Alura · 8h · [Certificado](./certificados/ci-cd/alura-devops-trabalhando-com-repositorios-no-github.pdf) · [Verificar](https://cursos.alura.com.br/certificate/b51810c4-9fcb-4b85-bc1e-c7a0eed49249?lang=pt_BR)
+
 - **Curso:** Fastlane e CI&CD  
   BackFront · 2h · [Certificado](./certificados/ci-cd/backfront-fastlane-e-ci-cd.pdf)
 
