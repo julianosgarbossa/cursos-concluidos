@@ -161,6 +161,9 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ### 🔀 Git & Controle de Versão
 
+- **Curso:** Git e GitHub - Dominando Controle de Versão de Código  
+  Alura · 8h · [Certificado](./certificados/git/alura-git-e-github-dominando-controle-de-versao-de-codigo.pdf) · [Verificar](https://cursos.alura.com.br/certificate/1a455ca0-5c25-46be-80d9-994372c3fefe?lang=pt_BR)
+
 - **Curso:** Git e GitHub - Compartilhando e Colaborando em Projetos  
   Alura · 8h · [Certificado](./certificados/git/alura-git-e-github-compartilhando-e-colaborando-em-projetos.pdf) · [Verificar](https://cursos.alura.com.br/certificate/c325a597-b3ed-4f41-b0b6-ea26cd93db9b?lang=pt_BR)
 
