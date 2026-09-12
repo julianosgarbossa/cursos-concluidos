@@ -15,6 +15,7 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 - 🏗️ [Engenharia de Software](#engenharia-de-software)
 - 🧠 [Algoritmos & Estruturas de Dados](#algoritmos-estruturas-de-dados)
 - 🚀 [CI/CD Automação](#ci-cd-automacao)
+- 🤖 [Inteligência Artificial](#inteligencia-artificial)
 - 🎨 [UI/UX Design](#ui-ux-design)
 
 ---
@@ -208,6 +209,15 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 - **Curso:** Fastlane e CI&CD  
   BackFront · 2h · [Certificado](./certificados/ci-cd/backfront-fastlane-e-ci-cd.pdf)
+
+---
+
+<a id="inteligencia-artificial"></a>
+
+### 🤖 Inteligência Artificial
+
+- **Curso:** ChatGPT e Programação - Aumente Sua Produtividade  
+  Alura · 8h · [Certificado](./certificados/ia/alura-github-e-programacao-aumente-sua-produtividade.pdf) · [Verificar](https://cursos.alura.com.br/certificate/13153e75-db8c-455a-b962-8ee15f55be5b?lang=pt_BR)
 
 ---
 
